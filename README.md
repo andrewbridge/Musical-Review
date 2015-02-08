@@ -6,7 +6,7 @@ Copyright 2015 Andrew Bridge
 ## Summary
 **Week 1 - Pixies - Bossa Nova**
 
-6/10
+19/30 (Me: 6/10)
 
 Some standout tracks, but sags in places.
 
