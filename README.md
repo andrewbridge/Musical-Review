@@ -4,12 +4,9 @@ I review an album each week with some friends, this seemed like a good place to 
 Copyright 2015 Andrew Bridge
 
 ## Summary
-<<<<<<< Updated upstream
-[**Week 1 - Pixies - Bossa Nova**](https://github.com/andrewbridge/Musical-Review/blob/master/reviews/Week%201%20-%20Pixies%20-%20Bossa%20Nova.md)
-=======
+
 ### Theme: 90s
-#### Week 1 - Pixies - Bossa Nova
->>>>>>> Stashed changes
+#### [Week 1 - Pixies - Bossa Nova](https://github.com/andrewbridge/Musical-Review/blob/master/reviews/Week%201%20-%20Pixies%20-%20Bossa%20Nova.md)
 
 19/30 (Me: 6/10)
 
