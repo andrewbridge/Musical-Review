@@ -13,3 +13,11 @@ Copyright 2015 Andrew Bridge
 Some standout tracks, but sags in places.
 
 Favourite Track: Cecilia Ann
+
+#### [Week 2 - The Chemical Brothers - Dig Your Own Hole](https://github.com/andrewbridge/Musical-Review/blob/master/reviews/Week%202%20-%20The%20Chemical%20Brothers%20-%20Dig%20Your%20Own%20Hole.md)
+
+21/30 (Me: 8/10)
+
+Too repetitive for some of us, but becomes interesting towards the end.
+
+Favourite Track: The Private Psychedelic Reel
