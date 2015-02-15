@@ -1,32 +1,32 @@
-# Week 1 - Pixies - Bossa Nova
+# Week 2 - The Chemical Brothers - Dig Your Own Hole
 *Theme: 90s*
 
 ## Andre said:
 
-"As I've said I really enjoy it generally, but a few tracks do sorta drift by."
+"For me it's not something I connected with too much, but I don't dislike it by any means. It is what it is, and some of the tracks are pretty cool."
 
-7/10
+6/10
 
-Favourite Tracks: All Over The World, Cecilia Ann, The Happening
+Favourite Tracks: The Private Psychedelic Reel, Lost in the K-Hole, Block Rockin' Beats
 
 ## Fred said:
 
-"I found a lot of the album to be quite forgettable. There are great individual tracks in there, for sure, but it never builds up a head of steam."
+"Once I got over the hump I actually quite enjoyed it. The ending portion mellowed out my initial irritation. There's actually a good few tracks I'll be revisiting."
 
-6/10
+7/10
 
-Favourite Tracks: Havalina, Is She Weird, Cecilia Ann
+Favourite Tracks: The Private Psychedelic Reel, Where Do I Begin, Lost in the K-Hole
 
 ## Andrew said:
 
-"Really my first proper introduction to Pixies and I really enjoyed it. If nothing else there are some amazingly catchy guitar riffs."
+"I think it had some interesting influences, some nice basslines and I will be returning to a fair few tracks. It's not my favourite album, of theirs, from the 90s or in general though."
 
-6/10
+8/10
 
-Favourite Tracks: Cecilia Ann, Is She Weird, Havalina
+Favourite Tracks: Setting Sun, Piku, The Private Psychedelic Reel
 
 ## Summary:
 
-19/30
+21/30
 
-Favourite Tracks: Cecilia Ann, Is She Weird, Havalina
+Favourite Tracks: The Private Psychedelic Reel, Lost in the K-Hole, Where Do I Begin?
