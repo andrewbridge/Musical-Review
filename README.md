@@ -22,4 +22,10 @@ Too repetitive for some of us, but becomes interesting towards the end.
 
 Favourite Track: The Private Psychedelic Reel
 
-#### Currently listening to: Week 3 - Spiritualized - Ladies and Gentleman We Are Floating In Space
+#### [Week 3 - Spiritualized - Ladies and Gentleman We Are Floating In Space](https://github.com/andrewbridge/Musical-Review/blob/master/reviews/Week%203%20-%20Spiritualized%20-%20Ladies%20and%20Gentleman%20We%20Are%20Floating%20In%20Space.md)
+
+26/30 (Me: 9/10)
+
+All in agreement that it was a great album, the middle sagged a little for some of us, but in general each track gave us a lot to talk about.
+
+Favourite Track: Broken Heart
