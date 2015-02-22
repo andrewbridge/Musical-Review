@@ -29,3 +29,6 @@ Favourite Track: The Private Psychedelic Reel
 All in agreement that it was a great album, the middle sagged a little for some of us, but in general each track gave us a lot to talk about.
 
 Favourite Track: Broken Heart
+
+### Theme: Concept Albums
+#### Currently listening to: Week 4 - The Kinks - Arthur
