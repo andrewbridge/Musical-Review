@@ -1,4 +1,4 @@
-Week 3 - Spiritualized - Ladies and Gentleman We Are Floating In Space
+# Week 3 - [Spiritualized - Ladies and Gentleman We Are Floating In Space](http://www.allmusic.com/album/ladies-and-gentlemen-we-are-floating-in-space-mw0000023701)
 *Theme: 90s*
 
 ## Andre said:

@@ -1,4 +1,4 @@
-# Week 2 - The Chemical Brothers - Dig Your Own Hole
+# Week 2 - [The Chemical Brothers - Dig Your Own Hole](http://www.allmusic.com/album/dig-your-own-hole-mw0000100074)
 *Theme: 90s*
 
 ## Andre said:
