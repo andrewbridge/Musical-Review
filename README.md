@@ -6,7 +6,7 @@ Copyright 2015 Andrew Bridge
 ## Summary
 
 ### Theme: 90s
-#### [Week 1 - Pixies - Bossa Nova](https://github.com/andrewbridge/Musical-Review/blob/master/reviews/Week%201%20-%20Pixies%20-%20Bossa%20Nova.md)
+#### [Week 1 - Pixies - Bossanova](https://github.com/andrewbridge/Musical-Review/blob/master/reviews/Week%201%20-%20Pixies%20-%20Bossanova.md)
 
 19/30 (Me: 6/10)
 
@@ -31,4 +31,12 @@ All in agreement that it was a great album, the middle sagged a little for some 
 Favourite Track: Broken Heart
 
 ### Theme: Concept Albums
-#### Currently listening to: Week 4 - The Kinks - Arthur
+#### [Week 4 - The Kinks - Arthur](https://github.com)
+
+23/30 (Me: 8/10)
+
+Not as much love as some albums have received, but a lot of respect from all. The instrumentation, harmonies and satire laced lyrics were all points of note, though the latter 3rd tailed off for us all.
+
+Favourite Tracks: Australia, Yes Sir No Sir, Shangri-La
+
+#### Currently listening: Week 5 - Pink Floyd - The Dark Side of the Moon

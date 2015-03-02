@@ -1,4 +1,4 @@
-# Week 1 - [Pixies - Bossa Nova](http://www.allmusic.com/album/bossanova-mw0000690015)
+# Week 1 - [Pixies - Bossanova](http://www.allmusic.com/album/bossanova-mw0000690015)
 *Theme: 90s*
 
 ## Andre said:
