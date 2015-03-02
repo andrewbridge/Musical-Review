@@ -31,7 +31,7 @@ All in agreement that it was a great album, the middle sagged a little for some 
 Favourite Track: Broken Heart
 
 ### Theme: Concept Albums
-#### [Week 4 - The Kinks - Arthur](https://github.com)
+#### [Week 4 - The Kinks - Arthur](https://github.com/andrewbridge/Musical-Review/blob/master/reviews/Week%204%20-%20The%20Kinks%20-%20Arthur%20(Or%20the%20Decline%20and%20Fall%20of%20the%20British%20Empire).md)
 
 23/30 (Me: 8/10)
 
