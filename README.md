@@ -1,7 +1,9 @@
 # Musical Review
 I review an album each week with some friends, this seemed like a good place to store things. See the summary below, or the individual files in the reviews directory.
 
-Copyright 2015 Andrew Bridge
+[![Creative Commons License](https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+Musical Review by Andrew Bridge, Andre Dack, Fred O'Brien is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](http://creativecommons.org/licenses/by-nc-nd/4.0/).
 
 ## Summary
 
