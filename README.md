@@ -11,6 +11,9 @@ A short explanation of the beginnings and workings of this review group can be f
 
 ## Summary
 
+[Theme:90s](#theme-90s)  
+[Theme:Concept Albums](#theme-concept-albums)  
+
 ### Theme: 90s
 #### [Week 1 - Pixies - Bossanova](./reviews/Week%201%20-%20Pixies%20-%20Bossanova.md)
 
