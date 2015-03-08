@@ -41,4 +41,12 @@ Not as much love as some albums have received, but a lot of respect from all. Th
 
 Favourite Tracks: Australia, Yes Sir No Sir, Shangri-La
 
-#### Currently listening: Week 5 - Pink Floyd - The Dark Side of the Moon
+#### [Week 5 - Pink Floyd - The Dark Side of the Moon](https://github.com/andrewbridge/Musical-Review/blob/master/reviews/Week%205%20-%20Pink%20Floyd%20-%20The%20Dark%20Side%20of%20the%20Moon.md)
+
+27/30 (Me: 9/10)
+
+An iconic album in so many ways, through the concepts that run through each track, to the instrumentation and interesting melodies, there was a general tone of sheer enjoyment felt by all of us. Even if we felt the second side was stronger than the first.
+
+Favourite Track: Money
+
+#### Currently listening: Week 6 - Nine Inch Nails - The Downward Spiral 
