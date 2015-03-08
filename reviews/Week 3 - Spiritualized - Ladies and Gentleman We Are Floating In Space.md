@@ -3,7 +3,7 @@
 
 ## Andre said:
 
-"I knew I liked the album a lot, but I hadn't listened to it in almost 2 years. I now love it. The album feels like a journey and it's so well sculptured. Love the themes. Love the basslines. Love the fragile vocals and lyrics. Love the production. It’s a long album, and you can tell, but it certainly doesn’t overstay it's welcome. There’s only one track which doesn't resonate with me. And such a curious closer… makes you think really. But overall, I think that this is actually a rather special album."
+"Jason Pierce sculptured a magnificent journey for listeners to experience. Tortured themes, fragile vocals, irresistibly groovy basslines, beautifully spacious production, and such a curious closer. Ladies and Gentleman We Are Floating In Space has numerous key components. A special album, and one I love dearly."
 
 9/10
 

@@ -3,7 +3,7 @@
 
 ## Andre said:
 
-"Despite the themes, and the fact it's a concept album, I'll admit I didn't have too much noted to discuss. I enjoy the album a lot; it's incredibly listenable, I can't go too much further than that for some reason. I'll definitely revisit it for the pure pleasure."
+"An enjoyable album, one that is incredibly easy to consume. The vocal harmonies are a joy to listen to. Whilst nothing particularly stands out, I'll definitely revisit Arthur for the pure pleasure."
 
 7/10
 

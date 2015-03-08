@@ -3,7 +3,7 @@
 
 ## Andre said:
 
-"It's a special album in a lot of ways. But, I do still say the second half is considerably stronger. The first side is good, and the second side is brilliant. So if I'm gonna be brutal in conclusion, I would say that, in that sense, it perhaps falls a tad short of the greatness than it so often gets accoladed with."
+"Undeniably special, The Dark Side of the Moon is an iconic record that will stand the test of time. I do feel, however, that one side is considerably stronger than the other - the first half is a good album, and the second half is a brilliant one. In that sense I'd suggest that it perhaps falls a tad short of the greatness that it so often gets accoladed with."
 
 8/10
 

@@ -3,7 +3,7 @@
 
 ## Andre said:
 
-"For me it's not something I connected with too much, but I don't dislike it by any means. It is what it is, and some of the tracks are pretty cool."
+"Despite my love and appreciation for electronic music, Dig Your Own Hole is not an album I personally connect with too much. My favourite tracks are those that are less driven by a beat, and focus instead on interesting melodies and textural layers."
 
 6/10
 
