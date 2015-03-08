@@ -1,2 +1,5 @@
 # Block list of possible upcoming albums
 possibilities.md
+
+# Ignore the feedGenerator directory until it is finished.
+feedGenerator
