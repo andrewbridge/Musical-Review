@@ -7,7 +7,7 @@ Musical Review by Andrew Bridge, Andre Dack, Fred O'Brien is licensed under a [C
 
 ## How it works
 
-A short explanation of the beginnings and workings of this review group can be found in the [schedule file](./schedule.md).
+A short explanation of the beginnings and workings of this review group can be found in the [review process information](./review-process.md).
 
 ## Summary
 
