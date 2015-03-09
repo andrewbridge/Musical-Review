@@ -11,7 +11,7 @@ Favourite Tracks: All Over The World, Cecilia Ann, The Happening
 
 ## Fred said:
 
-"I found a lot of the album to be quite forgettable. There are great individual tracks in there, for sure, but it never builds up a head of steam."
+"I found a lot of Bossanova to be quite forgettable. There is a handful of good tracks, but the album as a whole fails to build up a head of steam. It isn't bad by any means, though, and certainly merits a listen."
 
 6/10
 
