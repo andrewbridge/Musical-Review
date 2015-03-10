@@ -11,7 +11,7 @@ Favourite Tracks: Money, Us and Them, Brain Damage
 
 ## Fred said:
 
-"It's just sublime. I wish I could articulate better as to why, but I'm not sure I can. Dark Side of the Moon is one of those high-water marks of creativity and expression. If I wasn't such a surly git it probably would have changed my life. I've chosen favourites, but you really should just listen to it all in one go."
+"The Dark Side of the Moon is one of those high-water marks of artistic expression. It's just sublime. I don't have a bad thing to say about it. I think the two halves need each other, their relationship not unlike the one shared by the beam of light and the prism that adorn the iconic cover. If I wasn't such an impassive git this album probably would have changed my life. I've chosen favourites, but you really should just listen to it all in one go."
 
 10/10
 
