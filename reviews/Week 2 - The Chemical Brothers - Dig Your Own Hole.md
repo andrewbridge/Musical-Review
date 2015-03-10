@@ -11,7 +11,7 @@ Favourite Tracks: The Private Psychedelic Reel, Lost in the K-Hole, Block Rockin
 
 ## Fred said:
 
-"Once I got over the hump I actually quite enjoyed it. The ending portion mellowed out my initial irritation. There's actually a good few tracks I'll be revisiting."
+"It's certainly an acquired taste, but once I got over the hump I actually quite enjoyed it. The allure of dance tracks is totally lost on me (which is more my problem than the album's), but once the more textured songs rear their heads the whole album falls together a little better. The ending portion mellowed out my initial irritation. The last few tracks are top notch."
 
 7/10
 
