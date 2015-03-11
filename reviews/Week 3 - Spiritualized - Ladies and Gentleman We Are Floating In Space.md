@@ -11,7 +11,7 @@ Favourite Tracks: Ladies and Gentleman We Are Floating In Space, Broken Heart, C
 
 ## Fred said:
 
-"I thought the album was quite beautiful. You find new things to admire each time you listen, and I listened to it a lot this week. That said, the middle portion lost me a little, thought I'd imagine that's partially because the opening and closings are so wonderful."
+"It really is quite beautiful, a proper labour of love. The breadth and layering of sound is stunning. You find new things to admire each time you listen. That said, the middle portion lost me a little, though I'd imagine that's partially because the opening and closings are so good. Cop Shoot Cop is an odd choice of closing track, but it's as cool as they come."
 
 8/10
 
