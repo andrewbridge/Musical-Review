@@ -13,13 +13,14 @@ A short explanation of the beginnings and workings of this review group can be f
 
 [Theme:90s](#theme-90s)  
 [Theme:Concept Albums](#theme-concept-albums)  
+[Theme:80s](#theme-80s)  
 
 ### Theme: 90s
 #### [Week 1 - Pixies - Bossanova](./reviews/Week%201%20-%20Pixies%20-%20Bossanova.md)
 
 19/30 (Me: 6/10)
 
-Some standout tracks, but sags in places.
+Some standout tracks, but for some of us, there were forgettable tracks sprinkled throughout.
 
 Favourite Track: Cecilia Ann
 
@@ -56,4 +57,13 @@ An iconic album in so many ways, through the concepts that run through each trac
 
 Favourite Track: Money
 
-#### Currently listening: Week 6 - Nine Inch Nails - The Downward Spiral 
+#### [Week 6 - Nine Inch Nails - The Downward Spiral](./reviews/Week%206%20-%20Nine%20Inch%20Nails%20-%20The%20Downward%20Spiral.md)
+
+After the longest discusson yet, The Downward Spiral comes as close to a perfect concept album as possible. Connecting with us all and prompting a large discussion as well as a lot of reading surrounding the album and the themes that feature.
+
+28/30 (Me: 9/10)
+
+Favourite Tracks: Closer, Ruiner, A Warm Place
+
+### Theme: 80s
+#### Currently listening: Week 7 - Tom Waits - Rain Dogs
