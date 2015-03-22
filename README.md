@@ -66,4 +66,13 @@ After the longest discusson yet, The Downward Spiral comes as close to a perfect
 Favourite Tracks: Closer, Ruiner, A Warm Place
 
 ### Theme: 80s
-#### Currently listening: Week 7 - Tom Waits - Rain Dogs
+#### [Week 7 - Tom Waits - Rain Dogs](./reviews/Week%207%20-%20Tom%20Waits%20-%20Rain%20Dogs.md)
+
+While purposeful, the chaotic effect produced by the track order worked better for some of us than others. But we all agreed Tom Waits has a distinctive voice which carries a natural, earthy and interesting album throughout.
+
+21/30
+
+Favourite Track: Clap Hands
+
+### New Release
+#### Currently listening: Week 8 - Kendrick Lamar - To Pimp A Butterfly
