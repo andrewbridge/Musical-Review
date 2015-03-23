@@ -29,4 +29,4 @@ Favourite Tracks: Cecilia Ann, Is She Weird, Havalina
 
 19/30
 
-Favourite Tracks: Cecilia Ann, Is She Weird, Havalina
+Favourite Tracks: *Cecilia Ann*, Is She Weird, Havalina

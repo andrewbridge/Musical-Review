@@ -36,8 +36,8 @@ This is then condensed into an overall summary, an overall score (currently out 
 
 #### Combined Track Selection
 
-If there is a track that we've all picked, this is known as an **essential track** for that album. This is signalled by only one track appearing in the summary for that album. If more than one track is chosen by all of us. We will do a majority vote as to which one to choose as **essential**.
+If there is a track that we've all picked, this is known as an **essential track** for that album. This is signalled by the essential track being emphasised in the favourite tracks for that album. If more than one track is chosen by all of us. We will do a majority vote as to which one to choose as **essential**.
 
 To choose the remaining tracks, where we haven't selected the same tracks, we will each pick the favourite of another reviewers favourite track list. Either this selection acts a majority vote (if two or more of us have picked the same track), or it provides us with a selection to vote on. This process continues until we have three favourite tracks.
 
-If there is no **essential track**, all three of the combined favourite tracks will be displayed on the summary page of this review store.
+If there is no **essential track**, no emphasis will be displayed on any of the favourite tracks for that review.

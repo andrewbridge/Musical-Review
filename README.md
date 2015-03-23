@@ -22,7 +22,7 @@ A short explanation of the beginnings and workings of this review group can be f
 
 Some standout tracks, but for some of us, there were forgettable tracks sprinkled throughout.
 
-Favourite Track: Cecilia Ann
+Favourite Tracks: *Cecilia Ann*, Is She Weird, Havalina
 
 #### [Week 2 - The Chemical Brothers - Dig Your Own Hole](./reviews/Week%202%20-%20The%20Chemical%20Brothers%20-%20Dig%20Your%20Own%20Hole.md)
 
@@ -30,7 +30,7 @@ Favourite Track: Cecilia Ann
 
 Too repetitive for some of us, but becomes interesting towards the end.
 
-Favourite Track: The Private Psychedelic Reel
+Favourite Tracks: *The Private Psychedelic Reel*, Lost in the K-Hole, Where Do I Begin?
 
 #### [Week 3 - Spiritualized - Ladies and Gentleman We Are Floating In Space](./reviews/Week%203%20-%20Spiritualized%20-%20Ladies%20and%20Gentleman%20We%20Are%20Floating%20In%20Space.md)
 
@@ -38,7 +38,7 @@ Favourite Track: The Private Psychedelic Reel
 
 All in agreement that it was a great album, the middle sagged a little for some of us, but in general each track gave us a lot to talk about.
 
-Favourite Track: Broken Heart
+Favourite Tracks: *Broken Heart*, Ladies and Gentleman We Are Floating In Space, I Think I'm in Love
 
 ### Theme: Concept Albums
 #### [Week 4 - The Kinks - Arthur](./reviews/Week%204%20-%20The%20Kinks%20-%20Arthur%20(Or%20the%20Decline%20and%20Fall%20of%20the%20British%20Empire).md)
@@ -55,7 +55,7 @@ Favourite Tracks: Australia, Yes Sir No Sir, Shangri-La
 
 An iconic album in so many ways, through the concepts that run through each track, to the instrumentation and interesting melodies, there was a general tone of sheer enjoyment felt by all of us. Even if we felt the second side was stronger than the first.
 
-Favourite Track: Money
+Favourite Tracks: *Money*, Us and Them, Time
 
 #### [Week 6 - Nine Inch Nails - The Downward Spiral](./reviews/Week%206%20-%20Nine%20Inch%20Nails%20-%20The%20Downward%20Spiral.md)
 
@@ -72,7 +72,7 @@ While purposeful, the chaotic effect produced by the track order worked better f
 
 21/30
 
-Favourite Track: Clap Hands
+Favourite Tracks: *Clap Hands*, 9Th & Hennepin, Tango Till They're Sore
 
 ### New Release
 #### Currently listening: Week 8 - Kendrick Lamar - To Pimp A Butterfly

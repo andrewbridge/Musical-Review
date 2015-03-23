@@ -29,4 +29,4 @@ Favourite Tracks: Clap Hands, Midtown, 9th & Hennepin
 
 21/30
 
-Favourite Tracks: Clap Hands, 9Th & Hennepin, Tango Till They're Sore
+Favourite Tracks: *Clap Hands*, 9Th & Hennepin, Tango Till They're Sore

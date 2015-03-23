@@ -29,4 +29,4 @@ Favourite Tracks: Setting Sun, Piku, The Private Psychedelic Reel
 
 21/30
 
-Favourite Tracks: The Private Psychedelic Reel, Lost in the K-Hole, Where Do I Begin?
+Favourite Tracks: *The Private Psychedelic Reel*, Lost in the K-Hole, Where Do I Begin?
