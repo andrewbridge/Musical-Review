@@ -14,6 +14,7 @@ A short explanation of the beginnings and workings of this review group can be f
 [Theme:90s](#theme-90s)  
 [Theme:Concept Albums](#theme-concept-albums)  
 [Theme:80s](#theme-80s)  
+[New Release](#week-8---kendrick-lamar---to-pimp-a-butterfly)
 
 ### Theme: 90s
 #### [Week 1 - Pixies - Bossanova](./reviews/Week%201%20-%20Pixies%20-%20Bossanova.md)
@@ -70,9 +71,15 @@ Favourite Tracks: Closer, Ruiner, A Warm Place
 
 While purposeful, the chaotic effect produced by the track order worked better for some of us than others. But we all agreed Tom Waits has a distinctive voice which carries a natural, earthy and interesting album throughout.
 
-21/30
+21/30 (Me: 6/10)
 
 Favourite Tracks: *Clap Hands*, 9Th & Hennepin, Tango Till They're Sore
 
 ### New Release
-#### Currently listening: Week 8 - Kendrick Lamar - To Pimp A Butterfly
+#### [Week 8 - Kendrick Lamar - To Pimp A Butterfly](./reviews/Week%208%20-%20Kendrick%20Lamar%20-%20To%20Pimp%20A%20Butterfly.md)
+
+For "To Pimp A Butterfly" to be released at this time makes it especially poignant. The themes Kendrick Lamar touches on throughout the album are hard-hitting at times, and wrapped in a well told, evocative story. To add to this, we all agreed that the album was instrumentally great, and generally enjoyable to listen to to top it off. An incredibly important album of 2015.
+
+27/30 (Me: 9/10)
+
+Favourite Tracks: *Mortal Man*, How Much A Dollar Cost, King Kunta
