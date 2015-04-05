@@ -11,10 +11,10 @@ A short explanation of the beginnings and workings of this review group can be f
 
 ## Summary
 
-[Theme:90s](#theme-90s)  
-[Theme:Concept Albums](#theme-concept-albums)  
-[Theme:80s](#theme-80s)  
-[New Release](#week-8---kendrick-lamar---to-pimp-a-butterfly)
+New Release [2015/03/29](#week-8---kendrick-lamar---to-pimp-a-butterfly)  
+Theme:90s [Fred](#week-1---pixies---bossanova), [Andrew](#week-2---the-chemical-brothers---dig-your-own-hole), [Andre](#week-3---spiritualized---ladies-and-gentleman-we-are-floating-in-space)  
+Theme:Concept Album [Fred](#week-4---the-kinks---arthur), [Andrew](#week-5---pink-floyd---the-dark-side-of-the-moon), [Andre](https://github.com/andrewbridge/Musical-Review#week-6---nine-inch-nails---the-downward-spiral)  
+Theme:80s [Fred](#week-7---tom-waits---rain-dogs), [Andrew](#week-9---new-order---power-corruption-and-lies)  
 
 ### Theme: 90s
 #### [Week 1 - Pixies - Bossanova](./reviews/Week%201%20-%20Pixies%20-%20Bossanova.md)
@@ -83,3 +83,15 @@ For "To Pimp A Butterfly" to be released at this time makes it especially poigna
 27/30 (Me: 9/10)
 
 Favourite Tracks: *Mortal Man*, How Much A Dollar Cost, King Kunta
+
+### Theme: 80s
+#### [Week 9 - New Order - Power, Corruption And Lies](./reviews/Week%209%20-%20New%20Order%20-%20Power,%20Corruption%20And%20Lies.md)
+
+Without the sentimental feelings of hearing the album at the time, we were universally disappointed by 'Power, Corruption And Lies'. With robotically tight drum patterns to the point of soulessness, vocals that we didn't connect with at all, and track lengths that seemed overly long, we were all left cold by almost everything on the album.
+
+14/30
+
+Favourite Tracks: *Age of Consent*, Your Silent Face, Leave Me Alone
+
+### New Release
+#### Currently listening: Week 10 - Death Grips - The Powers That B
