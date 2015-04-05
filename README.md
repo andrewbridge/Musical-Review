@@ -19,42 +19,42 @@ Theme:80s [Fred](#week-7---tom-waits---rain-dogs), [Andrew](#week-9---new-order-
 ### Theme: 90s
 #### [Week 1 - Pixies - Bossanova](./reviews/Week%201%20-%20Pixies%20-%20Bossanova.md)
 
-19/30 (Me: 6/10)
-
 Some standout tracks, but for some of us, there were forgettable tracks sprinkled throughout.
+
+19/30 (Me: 6/10)
 
 Favourite Tracks: *Cecilia Ann*, Is She Weird, Havalina
 
 #### [Week 2 - The Chemical Brothers - Dig Your Own Hole](./reviews/Week%202%20-%20The%20Chemical%20Brothers%20-%20Dig%20Your%20Own%20Hole.md)
 
-21/30 (Me: 8/10)
-
 Too repetitive for some of us, but becomes interesting towards the end.
+
+21/30 (Me: 8/10)
 
 Favourite Tracks: *The Private Psychedelic Reel*, Lost in the K-Hole, Where Do I Begin?
 
 #### [Week 3 - Spiritualized - Ladies and Gentleman We Are Floating In Space](./reviews/Week%203%20-%20Spiritualized%20-%20Ladies%20and%20Gentleman%20We%20Are%20Floating%20In%20Space.md)
 
-26/30 (Me: 9/10)
-
 All in agreement that it was a great album, the middle sagged a little for some of us, but in general each track gave us a lot to talk about.
+
+26/30 (Me: 9/10)
 
 Favourite Tracks: *Broken Heart*, Ladies and Gentleman We Are Floating In Space, I Think I'm in Love
 
 ### Theme: Concept Albums
 #### [Week 4 - The Kinks - Arthur](./reviews/Week%204%20-%20The%20Kinks%20-%20Arthur%20(Or%20the%20Decline%20and%20Fall%20of%20the%20British%20Empire).md)
 
-23/30 (Me: 8/10)
-
 Not as much love as some albums have received, but a lot of respect from all. The instrumentation, harmonies and satire laced lyrics were all points of note, though the latter 3rd tailed off for us all.
+
+23/30 (Me: 8/10)
 
 Favourite Tracks: Australia, Yes Sir No Sir, Shangri-La
 
 #### [Week 5 - Pink Floyd - The Dark Side of the Moon](./reviews/Week%205%20-%20Pink%20Floyd%20-%20The%20Dark%20Side%20of%20the%20Moon.md)
 
-27/30 (Me: 9/10)
-
 An iconic album in so many ways, through the concepts that run through each track, to the instrumentation and interesting melodies, there was a general tone of sheer enjoyment felt by all of us. Even if we felt the second side was stronger than the first.
+
+27/30 (Me: 9/10)
 
 Favourite Tracks: *Money*, Us and Them, Time
 
@@ -89,7 +89,7 @@ Favourite Tracks: *Mortal Man*, How Much A Dollar Cost, King Kunta
 
 Without the sentimental feelings of hearing the album at the time, we were universally disappointed by 'Power, Corruption And Lies'. With robotically tight drum patterns to the point of soulessness, vocals that we didn't connect with at all, and track lengths that seemed overly long, we were all left cold by almost everything on the album.
 
-14/30
+14/30 (Me: 4/10)
 
 Favourite Tracks: *Age of Consent*, Your Silent Face, Leave Me Alone
 
