@@ -11,7 +11,7 @@ A short explanation of the beginnings and workings of this review group can be f
 
 ## Summary
 
-New Release [2015/03/29](#week-8---kendrick-lamar---to-pimp-a-butterfly)  
+New Release [2015/03/29](#week-8---kendrick-lamar---to-pimp-a-butterfly), [2015/04/12](#week-10---death-grips---the-powers-that-b)  
 Theme:90s [Fred](#week-1---pixies---bossanova), [Andrew](#week-2---the-chemical-brothers---dig-your-own-hole), [Andre](#week-3---spiritualized---ladies-and-gentleman-we-are-floating-in-space)  
 Theme:Concept Album [Fred](#week-4---the-kinks---arthur), [Andrew](#week-5---pink-floyd---the-dark-side-of-the-moon), [Andre](https://github.com/andrewbridge/Musical-Review#week-6---nine-inch-nails---the-downward-spiral)  
 Theme:80s [Fred](#week-7---tom-waits---rain-dogs), [Andrew](#week-9---new-order---power-corruption-and-lies)  
@@ -94,4 +94,13 @@ Without the sentimental feelings of hearing the album at the time, we were unive
 Favourite Tracks: *Age of Consent*, Your Silent Face, Leave Me Alone
 
 ### New Release
-#### Currently listening: Week 10 - Death Grips - The Powers That B
+#### [Week 10 - Death Grips - The Powers That B](./reviews/Week%2010%20-%20Death%20Grips%20-%20The%20Powers%20That%20B.md)
+
+An overwhelming, crazy wall of sound, let down by its length, where the two sides could've been separate. Despite that, we thoroughly enjoyed The Powers That B, revelling in its madness, experimentation and humour, even if it did prove to be exhaustive by the end.
+
+21/30 (Me: 7/10)
+
+Favourite Tracks: *On GP*, Why A Bitch Gotta Lie, Pss Pss
+
+### Theme: 80s
+#### Currently listening: Week 11 - U2 - The Joshua Tree
