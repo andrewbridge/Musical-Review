@@ -14,7 +14,7 @@ A short explanation of the beginnings and workings of this review group can be f
 New Release [2015/03/29](#week-8---kendrick-lamar---to-pimp-a-butterfly), [2015/04/12](#week-10---death-grips---the-powers-that-b)  
 Theme:90s [Fred](#week-1---pixies---bossanova), [Andrew](#week-2---the-chemical-brothers---dig-your-own-hole), [Andre](#week-3---spiritualized---ladies-and-gentleman-we-are-floating-in-space)  
 Theme:Concept Album [Fred](#week-4---the-kinks---arthur), [Andrew](#week-5---pink-floyd---the-dark-side-of-the-moon), [Andre](https://github.com/andrewbridge/Musical-Review#week-6---nine-inch-nails---the-downward-spiral)  
-Theme:80s [Fred](#week-7---tom-waits---rain-dogs), [Andrew](#week-9---new-order---power-corruption-and-lies)  
+Theme:80s [Fred](#week-7---tom-waits---rain-dogs), [Andrew](#week-9---new-order---power-corruption-and-lies), [Andre](#week-11---u2---the-joshua-tree)  
 
 ### Theme: 90s
 #### [Week 1 - Pixies - Bossanova](./reviews/Week%201%20-%20Pixies%20-%20Bossanova.md)
@@ -103,4 +103,13 @@ An overwhelming, crazy wall of sound, let down by its length, where the two side
 Favourite Tracks: *On GP*, Why A Bitch Gotta Lie, Pss Pss
 
 ### Theme: 80s
-#### Currently listening: Week 11 - U2 - The Joshua Tree
+#### [Week 11 - U2 - The Joshua Tree](./reviews/Week%2011%20-%20U2%20-%20The%20Joshua%20Tree.md)
+
+Making for an interesting discussion of differing preferences, The Joshua Tree provided an enjoyable listen. With notable production from Brian Eno and Daniel Lanois, innovative instrumentation and a poeticism throughout, we all found a lot to say, even if it didn't connect with everyone.
+
+22/30 (Me: 6/10)
+
+Favourite Tracks: *With Or Without You*, *Bullet The Blue Sky*, Exit
+
+### New Release
+#### Currently listening: Week 12 - Squarepusher - Damogen Furies
