@@ -11,7 +11,7 @@ A short explanation of the beginnings and workings of this review group can be f
 
 ## Summary
 
-New Release [2015/03/29](#week-8---kendrick-lamar---to-pimp-a-butterfly), [2015/04/12](#week-10---death-grips---the-powers-that-b)  
+New Release [2015/03/29](#week-8---kendrick-lamar---to-pimp-a-butterfly), [2015/04/12](#week-10---death-grips---the-powers-that-b), [2015/04/26](#week-12---squarepusher---damogen-furies)  
 Theme:90s [Fred](#week-1---pixies---bossanova), [Andrew](#week-2---the-chemical-brothers---dig-your-own-hole), [Andre](#week-3---spiritualized---ladies-and-gentleman-we-are-floating-in-space)  
 Theme:Concept Album [Fred](#week-4---the-kinks---arthur), [Andrew](#week-5---pink-floyd---the-dark-side-of-the-moon), [Andre](https://github.com/andrewbridge/Musical-Review#week-6---nine-inch-nails---the-downward-spiral)  
 Theme:80s [Fred](#week-7---tom-waits---rain-dogs), [Andrew](#week-9---new-order---power-corruption-and-lies), [Andre](#week-11---u2---the-joshua-tree)  
@@ -112,4 +112,13 @@ Making for an interesting discussion of differing preferences, The Joshua Tree p
 Favourite Tracks: *With Or Without You*, *Bullet The Blue Sky*, Exit
 
 ### New Release
-#### Currently listening: Week 12 - Squarepusher - Damogen Furies
+#### [Week 12 - Squarepusher - Damogen Furies](./reviews/Week%2012%20-%20Squarepusher%20-%20Damogen%20Furies.md)
+
+Damogen Furies made for a hard listen, but with all above average scores, we appreciated the sheer complexity of the album. More manic than some of Squarepusher's previous work, this latest album provided moments of euphoria and headaches simultaneously. A well-focused entry to his catalogue.
+
+21/30 (Me: 7/10)
+
+Favourite Tracks: *Exjag Nives*, Baltang Arg, Stor Eiglass
+
+### Theme: Teen Favourite
+#### Currently listening: Week 13 - Gorillaz - Demon Days
