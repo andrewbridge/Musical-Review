@@ -15,6 +15,7 @@ New Release [2015/03/29](#week-8---kendrick-lamar---to-pimp-a-butterfly), [2015/
 Theme:90s [Fred](#week-1---pixies---bossanova), [Andrew](#week-2---the-chemical-brothers---dig-your-own-hole), [Andre](#week-3---spiritualized---ladies-and-gentleman-we-are-floating-in-space)  
 Theme:Concept Album [Fred](#week-4---the-kinks---arthur), [Andrew](#week-5---pink-floyd---the-dark-side-of-the-moon), [Andre](https://github.com/andrewbridge/Musical-Review#week-6---nine-inch-nails---the-downward-spiral)  
 Theme:80s [Fred](#week-7---tom-waits---rain-dogs), [Andrew](#week-9---new-order---power-corruption-and-lies), [Andre](#week-11---u2---the-joshua-tree)  
+Theme:Teen Favourite [Fred](#week-13---gorillaz---demon-days)  
 
 ### Theme: 90s
 #### [Week 1 - Pixies - Bossanova](./reviews/Week%201%20-%20Pixies%20-%20Bossanova.md)
@@ -121,4 +122,13 @@ Damogen Furies made for a hard listen, but with all above average scores, we app
 Favourite Tracks: *Exjag Nives*, Baltang Arg, Stor Eiglass
 
 ### Theme: Teen Favourite
-#### Currently listening: Week 13 - Gorillaz - Demon Days
+#### [Week 13 - Gorillaz - Demon Days](./reviews/Week%2013%20-%20Gorillaz%20-%20Demon%20Days.md)
+
+A decade on from its release, Demon Days gave us a lot to talk about and made for an enjoyable listen for all. While eclectic, nothing about the album seems incoherent, and the fact that we didn't find an "essential" track from the album only stands as testament to the strength of each track individually.
+
+26/30 (Me: 9/10)
+
+Favourite Tracks: Kids with Guns, Fire Coming Out of the Monkey's Head, Feel Good Inc
+
+### New Release
+#### Currently listening: Week 14 - Blur - The Magic Whip
