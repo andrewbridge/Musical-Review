@@ -15,7 +15,7 @@ New Release [2015/03/29](#week-8---kendrick-lamar---to-pimp-a-butterfly), [2015/
 Theme:90s [Fred](#week-1---pixies---bossanova), [Andrew](#week-2---the-chemical-brothers---dig-your-own-hole), [Andre](#week-3---spiritualized---ladies-and-gentleman-we-are-floating-in-space)  
 Theme:Concept Album [Fred](#week-4---the-kinks---arthur), [Andrew](#week-5---pink-floyd---the-dark-side-of-the-moon), [Andre](https://github.com/andrewbridge/Musical-Review#week-6---nine-inch-nails---the-downward-spiral)  
 Theme:80s [Fred](#week-7---tom-waits---rain-dogs), [Andrew](#week-9---new-order---power-corruption-and-lies), [Andre](#week-11---u2---the-joshua-tree)  
-Theme:Teen Favourite [Fred](#week-13---gorillaz---demon-days)  
+Theme:Teen Favourite [Fred](#week-13---gorillaz---demon-days), [Andrew](#week-15---the-beatles---revolver)  
 
 ### Theme: 90s
 #### [Week 1 - Pixies - Bossanova](./reviews/Week%201%20-%20Pixies%20-%20Bossanova.md)
@@ -140,4 +140,13 @@ A new album from Blur had us all excited, but unfortunately the five day jam in 
 Favourite Tracks: Mirrorball, Lonesome Street, My Terracotta Heart
 
 ### Theme: Teen Favourite
-#### Currently listening: Week 15 - The Beatles - Revolver
+#### [Week 15 - The Beatles - Revolver](./reviews/Week%2015%20-%20The%20Beatles%20-%20Revolver.md)
+
+Any output from The Beatles has had such a huge amount of coverage that there's little left to say. However, Revolver is still a great listen that packs so much into a well rounded, cohesive and varied album and left us all with a reminder of some hidden gems throughout the album.
+
+26/30
+
+Favourite Tracks: Eleanor Rigby, Tomorrow Never Knows, I'm Only Sleeping
+
+### New Release
+#### Currently listening: Week 16 - San Fermin - Jackrabbit
