@@ -11,7 +11,7 @@ A short explanation of the beginnings and workings of this review group can be f
 
 ## Summary
 
-New Release [2015/03/29](#week-8---kendrick-lamar---to-pimp-a-butterfly), [2015/04/12](#week-10---death-grips---the-powers-that-b), [2015/04/26](#week-12---squarepusher---damogen-furies), [2015/05/17](#week-14---blur---the-magic-whip)  
+New Release [2015/03/29](#week-8---kendrick-lamar---to-pimp-a-butterfly), [2015/04/12](#week-10---death-grips---the-powers-that-b), [2015/04/26](#week-12---squarepusher---damogen-furies), [2015/05/17](#week-14---blur---the-magic-whip), [2015/06/01](#week-16---san-fermin---jackrabbit)  
 Theme:90s [Fred](#week-1---pixies---bossanova), [Andrew](#week-2---the-chemical-brothers---dig-your-own-hole), [Andre](#week-3---spiritualized---ladies-and-gentleman-we-are-floating-in-space)  
 Theme:Concept Album [Fred](#week-4---the-kinks---arthur), [Andrew](#week-5---pink-floyd---the-dark-side-of-the-moon), [Andre](https://github.com/andrewbridge/Musical-Review#week-6---nine-inch-nails---the-downward-spiral)  
 Theme:80s [Fred](#week-7---tom-waits---rain-dogs), [Andrew](#week-9---new-order---power-corruption-and-lies), [Andre](#week-11---u2---the-joshua-tree)  
@@ -149,4 +149,13 @@ Any output from The Beatles has had such a huge amount of coverage that there's 
 Favourite Tracks: Eleanor Rigby, Tomorrow Never Knows, I'm Only Sleeping
 
 ### New Release
-#### Currently listening: Week 16 - San Fermin - Jackrabbit
+#### [Week 16 - San Fermin - Jackrabbit](./reviews/Week%2016%20-%20San%20Fermin%20-%20Jackrabbit.md)
+
+An unexpected listen from an unknown artist for some of us, Jackrabbit provided a good discussion. However, between the interesting mix of instrumentation and genre, there were a few tracks that weren't as strong which ultimately let the album down to an extent.
+
+22/30
+
+Favourite Tracks: Emily, The Cave, Jackrabbit
+
+### Theme: Teen Favourite
+#### Currently listening: Week 17 - Muse - Origin of Symmetry
