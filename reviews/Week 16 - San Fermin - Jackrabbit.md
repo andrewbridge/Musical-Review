@@ -3,7 +3,8 @@
 
 ## Andre said:
 
-It's good.
+"Being unfamiliar with San Fermin allowed me to go into Jackrabbit without expectations, and I came away pleasantly surprised. Masterminded by composer Ludwig-Leone, the album draws influences from a variety of genres, shifting stylistically and dynamically throughout, helped even further by two soulful vocalists. But as enjoyable as it is, I find Jackrabbit to be a somewhat irregular experience: whilst it's carefully constructed, flowing beautifully from beginning to end, the album in its entirety can feel slightly taxing due to the bloated, overstuffed nature of the songwriting. Consequently, the stronger tracks are those that don't overcomplicate, and instead avoid the enticement of cramming in as many compositional techniques as seemingly possible. Still, there's a lot to love here, and the high points of the album demonstrate to me that there is a potential masterpiece brewing inside the mind of Ludwig-Leone. For the time being we have Jackrabbit; a well thought-out release that I'll certainly be revisiting for its gorgeous blend of folk, electronic and classical music."
+
 
 7/10
 

@@ -15,7 +15,7 @@ New Release [2015/03/29](#week-8---kendrick-lamar---to-pimp-a-butterfly), [2015/
 Theme:90s [Fred](#week-1---pixies---bossanova), [Andrew](#week-2---the-chemical-brothers---dig-your-own-hole), [Andre](#week-3---spiritualized---ladies-and-gentleman-we-are-floating-in-space)  
 Theme:Concept Album [Fred](#week-4---the-kinks---arthur), [Andrew](#week-5---pink-floyd---the-dark-side-of-the-moon), [Andre](https://github.com/andrewbridge/Musical-Review#week-6---nine-inch-nails---the-downward-spiral)  
 Theme:80s [Fred](#week-7---tom-waits---rain-dogs), [Andrew](#week-9---new-order---power-corruption-and-lies), [Andre](#week-11---u2---the-joshua-tree)  
-Theme:Teen Favourite [Fred](#week-13---gorillaz---demon-days), [Andrew](#week-15---the-beatles---revolver)  
+Theme:Teen Favourite [Fred](#week-13---gorillaz---demon-days), [Andrew](#week-15---the-beatles---revolver), [Andre](#week-17---muse---origin-of-symmetry)  
 
 ### Theme: 90s
 #### [Week 1 - Pixies - Bossanova](./reviews/Week%201%20-%20Pixies%20-%20Bossanova.md)
@@ -158,4 +158,13 @@ An unexpected listen from an unknown artist for some of us, Jackrabbit provided 
 Favourite Tracks: Emily, The Cave, Jackrabbit
 
 ### Theme: Teen Favourite
-#### Currently listening: Week 17 - Muse - Origin of Symmetry
+#### [Week 17 - Muse - Origin of Symmetry](./reviews/Week%2017%20-%20Muse%20-%20Origin%20of%20Symmetry.md)
+
+An album that has a special place in all of our hearts but even objectively, we came to the conclusion that Origin of Symmetry is still worth a listen more than a decade after its release. Its variety and rawness create a memorable album, with its only faults being the slight loss of direction and occassional roughness in execution.
+
+26/30
+
+Favourite Tracks: *Citizen Erased*, *Bliss*, New Born
+
+### New Release
+####  Currently listening: Muse - Drones

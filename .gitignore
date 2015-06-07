@@ -3,3 +3,6 @@ possibilities.md
 
 # Ignore the feedGenerator directory until it is finished.
 feedGenerator
+
+# Ignore weekly notes
+notes.md
