@@ -29,4 +29,4 @@ Favourite Tracks: Bliss, Citizen Erased, Screenager
 
 26/30
 
-Favourite Tracks: *Citizen Erased*, *Bliss*, New Born
+Favourite Tracks: *Citizen Erased*, Bliss, New Born

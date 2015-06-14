@@ -11,11 +11,12 @@ A short explanation of the beginnings and workings of this review group can be f
 
 ## Summary
 
-New Release [2015/03/29](#week-8---kendrick-lamar---to-pimp-a-butterfly), [2015/04/12](#week-10---death-grips---the-powers-that-b), [2015/04/26](#week-12---squarepusher---damogen-furies), [2015/05/17](#week-14---blur---the-magic-whip), [2015/06/01](#week-16---san-fermin---jackrabbit)  
+New Release [2015/03/29](#week-8---kendrick-lamar---to-pimp-a-butterfly), [2015/04/12](#week-10---death-grips---the-powers-that-b), [2015/04/26](#week-12---squarepusher---damogen-furies), [2015/05/17](#week-14---blur---the-magic-whip), [2015/06/01](#week-16---san-fermin---jackrabbit), [2015/06/14](#week-18---muse---drones)  
 Theme:90s [Fred](#week-1---pixies---bossanova), [Andrew](#week-2---the-chemical-brothers---dig-your-own-hole), [Andre](#week-3---spiritualized---ladies-and-gentleman-we-are-floating-in-space)  
 Theme:Concept Album [Fred](#week-4---the-kinks---arthur), [Andrew](#week-5---pink-floyd---the-dark-side-of-the-moon), [Andre](https://github.com/andrewbridge/Musical-Review#week-6---nine-inch-nails---the-downward-spiral)  
 Theme:80s [Fred](#week-7---tom-waits---rain-dogs), [Andrew](#week-9---new-order---power-corruption-and-lies), [Andre](#week-11---u2---the-joshua-tree)  
 Theme:Teen Favourite [Fred](#week-13---gorillaz---demon-days), [Andrew](#week-15---the-beatles---revolver), [Andre](#week-17---muse---origin-of-symmetry)  
+[Theme:70s](#theme-70s)
 
 ### Theme: 90s
 #### [Week 1 - Pixies - Bossanova](./reviews/Week%201%20-%20Pixies%20-%20Bossanova.md)
@@ -164,7 +165,16 @@ An album that has a special place in all of our hearts but even objectively, we 
 
 26/30
 
-Favourite Tracks: *Citizen Erased*, *Bliss*, New Born
+Favourite Tracks: *Citizen Erased*, Bliss, New Born
 
 ### New Release
-####  Currently listening: Muse - Drones
+#### [Week 18 - Muse - Drones](./reviews/Week%2018%20-%20Muse%20-%20Drones.md)
+
+An album that aligned our opinions and caused both disappointment and elation. In the end our favourite tracks all being the same speaks far louder than a summary could. Had there been more that were similar to our favourites, Drones could've done well. Had there been more Drone Kings, we probably wouldn't be in this mess in the first place. As it is, Drones is mediocre for the most part.
+
+17/30
+
+Favourite Tracks: *Defector*, *The Handler*, *Reapers*
+
+### Theme: 70s
+#### Currently listening: Week 19 - Neil Young - On the Beach
