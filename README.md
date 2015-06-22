@@ -16,7 +16,7 @@ Theme:90s [Fred](#week-1---pixies---bossanova), [Andrew](#week-2---the-chemical-
 Theme:Concept Album [Fred](#week-4---the-kinks---arthur), [Andrew](#week-5---pink-floyd---the-dark-side-of-the-moon), [Andre](https://github.com/andrewbridge/Musical-Review#week-6---nine-inch-nails---the-downward-spiral)  
 Theme:80s [Fred](#week-7---tom-waits---rain-dogs), [Andrew](#week-9---new-order---power-corruption-and-lies), [Andre](#week-11---u2---the-joshua-tree)  
 Theme:Teen Favourite [Fred](#week-13---gorillaz---demon-days), [Andrew](#week-15---the-beatles---revolver), [Andre](#week-17---muse---origin-of-symmetry)  
-[Theme:70s](#theme-70s)
+Theme:70s [Fred](#week-19---neil-young---on-the-beach)  
 
 ### Theme: 90s
 #### [Week 1 - Pixies - Bossanova](./reviews/Week%201%20-%20Pixies%20-%20Bossanova.md)
@@ -177,4 +177,13 @@ An album that aligned our opinions and caused both disappointment and elation. I
 Favourite Tracks: *Defector*, *The Handler*, *Reapers*
 
 ### Theme: 70s
-#### Currently listening: Week 19 - Neil Young - On the Beach
+#### [Week 19 - Neil Young - On The Beach](./reviews/Week%2019%20-%20Neil%20Young%20-%20On%20The%20Beach.md)
+
+A week where few words were needed. On The Beach provided for a lot of enjoyment and yet none of us could quite articulate why we had enjoyed it so much. A great listen which really speaks louder in its lyrical and instrumental content than any of us were able to truly put in to words.
+
+27/30
+
+Favourite Tracks: *On The Beach*, Walk On, Ambulance Blues
+
+### New Release
+#### Currently listening: Week 20 - Jaga Jazzist - Starfire
