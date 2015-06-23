@@ -3,7 +3,7 @@
 
 ## Andre said:
 
-"Sorry"
+"On The Beach is perfect for those late nights alone, where the further you venture into the album, the more poignant the evening feels. Both mellow and despondent, the record features the purest of songwriting from a genuine artist, and it flows gracefully from start to finish. The real beauty, though, lies in the somber trio of songs that concludes the album, starting with the stunning title track ("though my problems are meaningless, that don't make them go away") and ending with Ambulance Blues, a truly harrowing song that sees a self-reflective Young attempting to move past his sorrow, and instead look forward with hope of wiping away the thoughts of despair. It's a great record, and it does a fine job of reminding you that you're human."
 
 8/10
 
