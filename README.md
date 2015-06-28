@@ -11,7 +11,7 @@ A short explanation of the beginnings and workings of this review group can be f
 
 ## Summary
 
-New Release [2015/03/29](#week-8---kendrick-lamar---to-pimp-a-butterfly), [2015/04/12](#week-10---death-grips---the-powers-that-b), [2015/04/26](#week-12---squarepusher---damogen-furies), [2015/05/17](#week-14---blur---the-magic-whip), [2015/06/01](#week-16---san-fermin---jackrabbit), [2015/06/14](#week-18---muse---drones)  
+New Release [2015/03/29](#week-8---kendrick-lamar---to-pimp-a-butterfly), [2015/04/12](#week-10---death-grips---the-powers-that-b), [2015/04/26](#week-12---squarepusher---damogen-furies), [2015/05/17](#week-14---blur---the-magic-whip), [2015/06/01](#week-16---san-fermin---jackrabbit), [2015/06/14](#week-18---muse---drones), [2015-06-28](#week-20---jaga-jazzist---starfire)  
 Theme:90s [Fred](#week-1---pixies---bossanova), [Andrew](#week-2---the-chemical-brothers---dig-your-own-hole), [Andre](#week-3---spiritualized---ladies-and-gentleman-we-are-floating-in-space)  
 Theme:Concept Album [Fred](#week-4---the-kinks---arthur), [Andrew](#week-5---pink-floyd---the-dark-side-of-the-moon), [Andre](https://github.com/andrewbridge/Musical-Review#week-6---nine-inch-nails---the-downward-spiral)  
 Theme:80s [Fred](#week-7---tom-waits---rain-dogs), [Andrew](#week-9---new-order---power-corruption-and-lies), [Andre](#week-11---u2---the-joshua-tree)  
@@ -186,4 +186,13 @@ A week where few words were needed. On The Beach provided for a lot of enjoyment
 Favourite Tracks: *On The Beach*, Walk On, Ambulance Blues
 
 ### New Release
-#### Currently listening: Week 20 - Jaga Jazzist - Starfire
+#### [Week 20 - Jaga Jazzist - Starfire](./reviews/Week%2020%20-%20Jaga%20Jazzist%20-%20Starfire.md)
+
+Jaga Jazzist surprised us this week with their latest release. A melting pot of electronic, pop and jazz music provided for an energetic, ever-changing listen. However, with the memorable moments scattered across the live jam-like tracks, Starfire ultimately didn't move us to anything more than mild approval and a curiosity to explore their previous albums.
+
+19/30
+
+Favourite tracks: *Shinkansen*, *Starfire*, Big City Music
+
+### Theme: 70s
+#### Currently listening: Week 21 - Bob Marley & The Wailers - Exodus
