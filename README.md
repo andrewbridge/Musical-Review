@@ -16,7 +16,7 @@ Theme:90s [Fred](#week-1---pixies---bossanova), [Andrew](#week-2---the-chemical-
 Theme:Concept Album [Fred](#week-4---the-kinks---arthur), [Andrew](#week-5---pink-floyd---the-dark-side-of-the-moon), [Andre](https://github.com/andrewbridge/Musical-Review#week-6---nine-inch-nails---the-downward-spiral)  
 Theme:80s [Fred](#week-7---tom-waits---rain-dogs), [Andrew](#week-9---new-order---power-corruption-and-lies), [Andre](#week-11---u2---the-joshua-tree)  
 Theme:Teen Favourite [Fred](#week-13---gorillaz---demon-days), [Andrew](#week-15---the-beatles---revolver), [Andre](#week-17---muse---origin-of-symmetry)  
-Theme:70s [Fred](#week-19---neil-young---on-the-beach)  
+Theme:70s [Fred](#week-19---neil-young---on-the-beach), [Andrew](#week-21---bob-marley-and-the-wailers---exodus)  
 
 ### Theme: 90s
 #### [Week 1 - Pixies - Bossanova](./reviews/Week%201%20-%20Pixies%20-%20Bossanova.md)
@@ -195,4 +195,13 @@ Jaga Jazzist surprised us this week with their latest release. A melting pot of 
 Favourite tracks: *Shinkansen*, *Starfire*, Big City Music
 
 ### Theme: 70s
-#### Currently listening: Week 21 - Bob Marley & The Wailers - Exodus
+#### Week 21 - Bob Marley and The Wailers - Exodus
+
+With a lot to live up to, Exodus fell just short of the classic album we were expecting, some tracks initially floating by without recognition, the album only really caught out interest in the latter half. Though we certainly all enjoyed it, and appreciate just how big an impact the album has made worldwide, over time, Exodus simply didn't make us feel a great deal.
+
+20/30
+
+Favourite Tracks: *Jamming*, One Love/People Get Ready, Exodus
+
+### New Release
+#### Currently listening: Week 22 - Wolf Alice - My Love Is Cool
