@@ -1,5 +1,5 @@
 # Week 22 - [Wolf Alice - My Love Is Cool](http://www.allmusic.com/album/my-love-is-cool-mw0002842642)
-*Theme: 70s*
+*New Release*
 
 ## Andre said:
 
