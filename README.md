@@ -11,7 +11,7 @@ A short explanation of the beginnings and workings of this review group can be f
 
 ## Summary
 
-New Release [2015/03/29](#week-8---kendrick-lamar---to-pimp-a-butterfly), [2015/04/12](#week-10---death-grips---the-powers-that-b), [2015/04/26](#week-12---squarepusher---damogen-furies), [2015/05/17](#week-14---blur---the-magic-whip), [2015/06/01](#week-16---san-fermin---jackrabbit), [2015/06/14](#week-18---muse---drones), [2015-06-28](#week-20---jaga-jazzist---starfire)  
+New Release [2015/03/29](#week-8---kendrick-lamar---to-pimp-a-butterfly), [2015/04/12](#week-10---death-grips---the-powers-that-b), [2015/04/26](#week-12---squarepusher---damogen-furies), [2015/05/17](#week-14---blur---the-magic-whip), [2015/06/01](#week-16---san-fermin---jackrabbit), [2015/06/14](#week-18---muse---drones), [2015-06-28](#week-20---jaga-jazzist---starfire), [2015-08-02](#week-22---wolf-alice---my-love-is-cool)  
 Theme:90s [Fred](#week-1---pixies---bossanova), [Andrew](#week-2---the-chemical-brothers---dig-your-own-hole), [Andre](#week-3---spiritualized---ladies-and-gentleman-we-are-floating-in-space)  
 Theme:Concept Album [Fred](#week-4---the-kinks---arthur), [Andrew](#week-5---pink-floyd---the-dark-side-of-the-moon), [Andre](https://github.com/andrewbridge/Musical-Review#week-6---nine-inch-nails---the-downward-spiral)  
 Theme:80s [Fred](#week-7---tom-waits---rain-dogs), [Andrew](#week-9---new-order---power-corruption-and-lies), [Andre](#week-11---u2---the-joshua-tree)  
@@ -195,7 +195,7 @@ Jaga Jazzist surprised us this week with their latest release. A melting pot of 
 Favourite tracks: *Shinkansen*, *Starfire*, Big City Music
 
 ### Theme: 70s
-#### Week 21 - Bob Marley and The Wailers - Exodus
+#### [Week 21 - Bob Marley and The Wailers - Exodus](./reviews/Week%2021%20-%20Bob%20Marley%20and%20The%20Wailers%20-%20Exodus.md)
 
 With a lot to live up to, Exodus fell just short of the classic album we were expecting, some tracks initially floating by without recognition, the album only really caught out interest in the latter half. Though we certainly all enjoyed it, and appreciate just how big an impact the album has made worldwide, over time, Exodus simply didn't make us feel a great deal.
 
@@ -204,4 +204,13 @@ With a lot to live up to, Exodus fell just short of the classic album we were ex
 Favourite Tracks: *Jamming*, One Love/People Get Ready, Exodus
 
 ### New Release
-#### Currently listening: Week 22 - Wolf Alice - My Love Is Cool
+#### [Week 22 - Wolf Alice - My Love Is Cool](./reviews/Week%2022%20-%20Wolf%20Alice%20-%20My%20Love%20Is%20Cool.md)
+
+We were all left intrigued at the potential of Wolf Alice after listening to their debut album. With so many genres being covered in the tracklist of My Love Is Cool, we've all enjoyed different parts of the album, and are hopeful for what comes next for Wolf Alice.
+
+21/30
+
+Favourite Tracks: *Giant Peach*, Freazy, Fluffy
+
+### Theme: 70s
+#### Currently listening: Week 23 - David Bowie - Low
