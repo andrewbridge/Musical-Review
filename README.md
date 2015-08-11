@@ -16,7 +16,7 @@ Theme:90s [Fred](#week-1---pixies---bossanova), [Andrew](#week-2---the-chemical-
 Theme:Concept Album [Fred](#week-4---the-kinks---arthur), [Andrew](#week-5---pink-floyd---the-dark-side-of-the-moon), [Andre](https://github.com/andrewbridge/Musical-Review#week-6---nine-inch-nails---the-downward-spiral)  
 Theme:80s [Fred](#week-7---tom-waits---rain-dogs), [Andrew](#week-9---new-order---power-corruption-and-lies), [Andre](#week-11---u2---the-joshua-tree)  
 Theme:Teen Favourite [Fred](#week-13---gorillaz---demon-days), [Andrew](#week-15---the-beatles---revolver), [Andre](#week-17---muse---origin-of-symmetry)  
-Theme:70s [Fred](#week-19---neil-young---on-the-beach), [Andrew](#week-21---bob-marley-and-the-wailers---exodus)  
+Theme:70s [Fred](#week-19---neil-young---on-the-beach), [Andrew](#week-21---bob-marley-and-the-wailers---exodus), [Andre](#week-23---david-bowie---low)  
 
 ### Theme: 90s
 #### [Week 1 - Pixies - Bossanova](./reviews/Week%201%20-%20Pixies%20-%20Bossanova.md)
@@ -213,4 +213,13 @@ We were all left intrigued at the potential of Wolf Alice after listening to the
 Favourite Tracks: *Giant Peach*, Freazy, Fluffy
 
 ### Theme: 70s
-#### Currently listening: Week 23 - David Bowie - Low
+#### [Week 23 - David Bowie - Low](./reviews/Week%2023%20-%20David%20Bowie%20-%20Low.md)
+
+Low lured us in with its first side of short and sweet glam-rock and made us stay with the second side of curious soundscapes. With us all noting its attention to detail and clarity, Low provides for a great listen and reaffirms why Bowie is still so relevant and influential today
+
+27/30
+
+Favourite Tracks: Sound and Vision, Speed of Life, Warszawa
+
+### New Release
+#### Currently listening: Week 24 - Lianne La Havas - Blood
