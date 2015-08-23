@@ -222,7 +222,7 @@ Low lured us in with its first side of short and sweet glam-rock and made us sta
 Favourite Tracks: Sound and Vision, Speed of Life, Warszawa
 
 ### New Release
-#### Week 24 - Lianne La Havas - Blood
+#### [Week 24 - Lianne La Havas - Blood](./reviews/Week%2024%20-%20Lianne%20La%20Havas%20-%20Blood.md)
 
 Blood definitely has some interesting moments, but each of us agreed that the extra instrumentation sometimes felt a little needless and lifeless in contrast the La Havas' vocals. Nevertheless, it hasn't dampened our interest in the artist and the slightly stripped back sound from the previous album.
 
