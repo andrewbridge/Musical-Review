@@ -1,4 +1,7 @@
 # Musical Review
+
+**This repo is no longer maintained as our reviews are now published at [audioxide.com](https://audioxide.com) including those in this repo.**
+
 I review an album each week with some friends, this seemed like a good place to store things. See the summary below, or the individual files in the reviews directory.
 
 [![Creative Commons License](https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-nd/4.0/)
